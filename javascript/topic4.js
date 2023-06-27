@@ -1,4 +1,4 @@
-let array=['Saad','Hassan','Ashar','Daniyal','Omar']
+let array=['Samiullah','Hafeez','Asim','Daud','Zain']
 // before sorted
 console.log(array)
 

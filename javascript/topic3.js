@@ -1,11 +1,11 @@
 let car={
 
-    Name:'Honda Civic',
+    Name:'Audi',
     Model:'2022',
     Color:'black',
-    Prize:'15Lakh',
+    Prize:'95Lakh',
     Fuel:'Petrol/Diesel',
-    Engine:'1597 cc - 1799 cc'
+    Engine:'2500 cc - 2300cc'
 }
 
 
